@@ -61,4 +61,5 @@ Thumbs.db
 
 *.db
 .env
-!.env.example
+!.env_example
+README_v2.md
