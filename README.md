@@ -88,14 +88,10 @@ Prerequisites: Node.js (v18+) and npm installed.
 1. Open the frontend in your browser.
 2. Accept browser microphone permissions.
 3. **Voice**: Click the Microphone icon and say:
-   - "Quiero entrar con el usuario admin@tienda.com y la contraseña 1234"
+   - "Quiero entrar con el usuario xxxx@xxxx.com y la contraseña xxxx"
    - "Quiero registrar un nuevo producto"
    - "Es comida para gatos de la categoría alimentación"
 4. **Keyboard Shortcut**: Hold <kbd>↓</kbd> (Down Arrow) to speak without clicking.
 5. **Chat**: Type "Añadir producto" in the chat box.
 6. **Form**: Watch the form update in real-time based on your voice/chat commands.
 
-## 👥 Default User
-
-- **Email**: `admin@tienda.com`
-- **Password**: `1234`
