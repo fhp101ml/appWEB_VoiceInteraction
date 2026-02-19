@@ -2,6 +2,8 @@
 
 This is a standalone module providing a multimodal (Voice + Chat + GUI) interaction template using Python (FastAPI/LangGraph) and React (Vite/Socket.IO).
 
+![Pet Shop Assistant Demo](access_voiceScreen.png)
+
 ## Structure
 - `/backend`: Python FastAPI server with LangGraph agent and Voice processing.
 - `/frontend`: React Vite application with Voice/Chat UI components.
